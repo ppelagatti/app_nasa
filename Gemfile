@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem 'therubyracer', '0.10.2', :platforms => :ruby
 gem 'rails', '3.0.10'
 gem 'sqlite3'
 gem 'youtube_it'
