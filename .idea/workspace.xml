@@ -42,7 +42,11 @@
         <entry file="file://$PROJECT_DIR$/app/views/searches/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="14" column="33" selection-start="368" selection-end="381" vertical-scroll-proportion="-8.75">
-              <folding />
+              <folding>
+                <marker date="1361288589000" expanded="true" signature="20:345" placeholder="..." />
+                <marker date="1361288589000" expanded="true" signature="124:338" placeholder="..." />
+                <marker date="1361288589000" expanded="true" signature="210:317" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -719,7 +723,11 @@
     <entry file="file://$PROJECT_DIR$/app/views/searches/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="33" selection-start="368" selection-end="381" vertical-scroll-proportion="-8.75">
-          <folding />
+          <folding>
+            <marker date="1361288589000" expanded="true" signature="20:345" placeholder="..." />
+            <marker date="1361288589000" expanded="true" signature="124:338" placeholder="..." />
+            <marker date="1361288589000" expanded="true" signature="210:317" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
