@@ -1,0 +1,15 @@
+<div class="content">
+  <h2 class="Artist"><%= t("web-app-theme.new", :default => "New")%>  Search</h2>
+  <div class="inner">
+    <p>Insert query</p>
+
+    <% form_tag @search, :method => 'post' do %>
+        <p>
+          <%= text_field_tag :search, params[:search] %>
+          <%= submit_tag "Search" %>
+        </p>
+  <% end %>
+  </div>
+</div>
+
+<%= link_to 'Back', searches_path %>

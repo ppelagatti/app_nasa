@@ -1,0 +1,11 @@
+common: &common
+  dev_key: AI39si5M9I_0Ux42YD21UKbznLhKycF2YsCMcrWyuQIlKqCBu6jHh7G4kZJ7Xs0SfBrvTjpQF1xYKtq3l-0bi8QBUYX7UtuLKw
+  username:  paolo151987
+  password:  johnson735789
+  
+test:
+  <<: *common
+development:
+  <<: *common
+production:
+  <<: *common
