@@ -7,7 +7,7 @@ group :development, :test do
   gem 'sqlite3'
 end
 
-gem install nokogiri
+gem 'nokogiri'
 
 gem 'rails', '3.0.10'
 gem 'youtube_it'
